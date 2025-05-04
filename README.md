@@ -4,4 +4,4 @@ I like anime, coding, and internal monologues.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,js,css,html,empty,react,regex,linux,netlify,sklearn,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,js,css,html,empty,react,nextjs,tailwind,postgres,linux,tensorflow,pytorch)](https://skillicons.dev)
